@@ -7,7 +7,7 @@ As described in README.md
 This app at a time could host 10-100 Million users each user can have around
 avg 2 expenses shared with average of 3 users per day
 So in a year we can no.of expenses per user can grow to:
-2*3*365 =  2190 expenses
+`2*3*365 =  2190 expenses`
 
 This combining with total user base , so there will be total of:
 ``2190*100*10^6=2.2*10^8`` expenses \
